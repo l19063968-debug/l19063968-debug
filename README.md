@@ -11,3 +11,7 @@
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I have a one-eyed cat named Uno 
 
+<!--
+Lo, if you want to update the README on your GitHub profile, do it here.
+-Harry
+-->
